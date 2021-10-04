@@ -1,4 +1,4 @@
-# VASP-ScriptsnShit
+# VASP-ScriptsnStuff
 Some VASP processing and convergence-testing shell scripts.
 
 **Note that the convergence-testing functionality has been much improved in the [vaspup2.0](https://github.com/kavanase/vaspup2.0) package, so it is strongly recommended to use that instead.**
